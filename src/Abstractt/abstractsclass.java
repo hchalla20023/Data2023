@@ -23,6 +23,6 @@ abstract class abstractsclass {
 
         newbike nn = new newbike();
 
-        nn.test();
+        nn.test();//
     }
 }
