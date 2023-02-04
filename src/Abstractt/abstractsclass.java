@@ -2,7 +2,7 @@ package Abstractt;
 
 abstract class abstractsclass {
 
-    public  abstractsclass() {
+    public  abstractsclass() {//
 
     }
     abstract void test();// defination
